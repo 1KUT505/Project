@@ -283,3 +283,8 @@ body {
   height: 32px;
   margin: 3px;
 }
+
+.container p {
+  font-size: 12px;
+  line-height: 18px;
+}
